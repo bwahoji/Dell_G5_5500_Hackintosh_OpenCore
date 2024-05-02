@@ -2,7 +2,7 @@
 
 (截至2024/05/02 该OpenCore EFI版本为0.9.9 已支持macOS Sonoma )
 
-~~ (截至2022/08/17 该OpenCore EFI版本为0.8.3 仅支持macOS Monterey )  ~~
+~~(截至2022/08/17 该OpenCore EFI版本为0.8.3 仅支持macOS Monterey )~~
 
 ## 该EFI适用于
 |硬件|型号|
