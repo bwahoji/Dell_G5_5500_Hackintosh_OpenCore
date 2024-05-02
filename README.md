@@ -1,6 +1,8 @@
 # Dell_G5_5500_Hackintosh  
 
-(截至2022/08/17 该OpenCore EFI版本为0.8.3 仅支持macOS Monterey )  
+(截至2024/05/02 该OpenCore EFI版本为0.9.9 已支持macOS Sonoma )
+
+~~ (截至2022/08/17 该OpenCore EFI版本为0.8.3 仅支持macOS Monterey )  ~~
 
 ## 该EFI适用于
 |硬件|型号|
@@ -67,7 +69,12 @@ PI > Generic页内补全SystemSerialNumber、SystemUUID、MLB
 
 ## 更新记录
 
+#### 2024/5/2 (由他人更新)
+
+* 更新 OpenCore 至 0.9.9
+
 #### 2022/08/17 (后续可能会长期更新)
+
 * 根据 [daliansky/OC-little](https://github.com/daliansky/OC-little) 第06章中的内容进行补全
 * 添加了 ***SSDT-RMCF-PS2Map-dell.aml*** 进行键盘映射  
 (亮度调节键为FN+F11/F12 映射为F14/F15)
